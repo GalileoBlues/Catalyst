@@ -1,5 +1,9 @@
 ## Catalyst Keyboards
 
+![Catalyst46](/catalyst46_v1/catalyst46_V1.png)
+Catalyst46 PCB pictured above.
+***
+
 ### Disclaimer
 Currently the Catalyst V1 PCB schematic is untested, if you decide to build this understand the risk that the schematic may have issues. Also bear in mind that the keyboard itself hasn't been tested physically yet and may not be ergonomically sound for everyone.
 ***
